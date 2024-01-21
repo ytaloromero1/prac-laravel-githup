@@ -18,7 +18,7 @@
 
 @section('content')
 
-    <h2>CONTACTO01</h2>
+    <h2>CONTACTO01    actaualisadoooo</h2>
 
 
 
